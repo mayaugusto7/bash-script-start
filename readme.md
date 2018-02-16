@@ -19,4 +19,4 @@ help unset
 bash -x hello.sh 
 -x permite insercao de dados
 
-# Script Shebang referece ao "#!"# bash-script-start
+# Script Shebang referece ao "#!"
