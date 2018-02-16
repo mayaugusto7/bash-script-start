@@ -13,6 +13,7 @@ chmod +x file.sh
 
 # Help Bash
 help <command>
+<br>
 help unset
 
 # Debug mode

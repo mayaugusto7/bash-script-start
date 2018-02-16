@@ -1,0 +1,1 @@
+# Script Shebang referece ao "#!"
